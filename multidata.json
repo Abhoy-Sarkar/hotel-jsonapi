@@ -40,5 +40,47 @@
         "distance": "1711 kilometres away",
         "date": "20-26 Jun",
         "amount": "₹ 5,293 /night "
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/19fbf25a-6b04-4890-b5bb-f22d9d7ea119.jpg?im_w=720",
+        "title": "Koh Chang, Thailand",
+        "distance": "1871 kilometres away",
+        "date": "24-29 Jun",
+        "amount": "₹ 15,293 /night "
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/miso/Hosting-36726416/original/50fb47dd-15e2-426d-8531-3f0ee2b30e2a.jpeg?im_w=720",
+        "title": "Turku, Finland",
+        "distance": "6711 kilometres away",
+        "date": "20-26 Jun",
+        "amount": "₹ 25,293 /night "
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/5be3eb7a-ddb2-43bf-a5e7-b4ed5ffdafb3.jpg?im_w=720",
+        "title": "Peleopoli, Greece",
+        "distance": "6211 kilometres away",
+        "date": "3-8 Sep",
+        "amount": "₹ 65,293 /night "
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/aca68a16-b0b4-470a-b2c9-7135db4a187d.jpg?im_w=720",
+        "title": "Tambon Ban Tai, Thailand",
+        "distance": "1891 kilometres away",
+        "date": "20-27 Jun",
+        "amount": "₹ 27,297 /night "
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/dc2e44f1-2884-43cb-a697-f89fac2468df.jpg?im_w=720",
+        "title": "Sanya, China",
+        "distance": "2240 kilometres away",
+        "date": "14-19 Jul",
+        "amount": "₹ 15,293 /night "
+    },
+    {
+        "img": "https://a0.muscache.com/im/pictures/miso/Hosting-11818704/original/e3a99f16-3823-4a3b-8ecd-7a86c04f0190.jpeg?im_w=720",
+        "title": "Marathon, Florida, US",
+        "distance": "14,711 kilometres away",
+        "date": "13-20 Aug",
+        "amount": "₹ 18,870 /night "
     }
 ]
